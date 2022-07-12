@@ -1,0 +1,26 @@
+{
+    "types":[
+        "Agriculture and Plantation",
+        "Metal Production",
+        "Chemical Industries",
+        "Commercial Industries",
+        "Construction",
+        "Education",
+        "Financial Services",
+        "Food and Beverages",
+        "Health Services",
+        "Tourism",
+        "Software and IT",
+        "Media",
+        "Oil and Gas",
+        "Telecommunication Services",
+        "Transport"
+    ],
+    "sizes":[
+        {"size":"1-20", "value":1},
+        {"size":"21-50", "value":2},
+        {"size":"51-200", "value":3},
+        {"size":"201-500", "value":4},
+        {"size":"500+", "value":5}
+    ]
+}
